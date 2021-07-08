@@ -1,6 +1,5 @@
 package com.example.customerapi.domain;
 
-import com.sun.istack.Nullable;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
@@ -8,7 +7,7 @@ import lombok.Data;
 @AllArgsConstructor
 public class Customer {
 	
-	@Nullable
+	//@Nullable
 	private Long id;
 	private String name;
 	private String email;
