@@ -22,11 +22,11 @@
 	</properties>
 
 	<modules>
-		<module>customer-domain</module>
-		<module>customer-application</module>
-		<module>customer-persistence</module>
-		<module>customer-web</module>
-		<module>customer-init</module>
+		<module>domain</module>
+		<module>application</module>
+		<module>persistence</module>
+		<module>web</module>
+		<module>configuration</module>
 	</modules>
 
 </project>
