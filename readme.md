@@ -1,3 +1,5 @@
 # Implementation of Clean Architecture in an REST API with Spring
 
-Customer REST API
+Based on the references:
+ - https://github.com/thombergs/buckpal
+ - https://reflectoring.io/book/
