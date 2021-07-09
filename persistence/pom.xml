@@ -10,7 +10,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     
-    <artifactId>customer-api-persistence</artifactId>
+    <artifactId>persistence</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
@@ -21,12 +21,12 @@
     <dependencies>
         <dependency>
             <groupId>com.example.customerapi</groupId>
-            <artifactId>customer-api-domain</artifactId>
+            <artifactId>domain</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.example.customerapi</groupId>
-            <artifactId>customer-api-application</artifactId>
+            <artifactId>application</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
